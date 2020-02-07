@@ -1,2 +1,2 @@
 FROM httpd:2.4
-COPY sandeeptest/sandeepsecond  /usr/local/apache2/htdocs/
+COPY sandeepsecond/  /usr/local/apache2/htdocs/
